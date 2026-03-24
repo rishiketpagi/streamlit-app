@@ -37,7 +37,7 @@ Add screenshot after uploading image to repo.
 
 Example:
 
-![UI](image.png)
+![Screenshot](image.png)
 
 ---
 
