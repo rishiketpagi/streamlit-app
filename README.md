@@ -7,7 +7,7 @@ The app uses Faster-Whisper for speech recognition and Deep-Translator for multi
 
 ## 🚀 Live App
 
-https://rishiketpagi-captionflow.streamlit.app
+https://captionflow.streamlit.app
 
 ## 📂 GitHub Repository
 
